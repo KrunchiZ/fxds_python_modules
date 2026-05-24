@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # TODO: Refer to the objective and sample output and figure out your own code!
 # Time to graduate :p
 import random

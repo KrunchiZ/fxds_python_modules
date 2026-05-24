@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Start from zero
 count = 0
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #TODO:
 # 1. Ask the user for their name
 # 2. Ask the user for their favourite food

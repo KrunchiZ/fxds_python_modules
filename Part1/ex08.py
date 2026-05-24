@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Current speed
 speed = 61
 print(speed)

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # TODO:
 # Create a function called check_string that takes one string argument
 # If the string starts with the letters "The", return "Found it!"

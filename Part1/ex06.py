@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # List of names
 names = ['Tom', 'Jerry', 'Butch', 'Tuffy', 'Pecos']
 

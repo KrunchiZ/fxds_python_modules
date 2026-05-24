@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Word variables
 word1 = 'car '
 word2 = 'exceeded '

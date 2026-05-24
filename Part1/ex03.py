@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Original text
 string1 = 'MaRviN THE bOt'
 

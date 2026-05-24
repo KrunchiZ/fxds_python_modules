@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # TODO: Create a function called my_function
 # that prints "Hi Marvin!" when called
 

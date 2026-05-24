@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # TODO:
 # Create a function called calculate that takes three arguments:
 # - A number
