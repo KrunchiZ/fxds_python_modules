@@ -13,7 +13,7 @@ def main():
 
         food_list.append(food)
 
-    with open('./food.csv', 'a', newline='') as csvfile:
+    with open('./food.csv', 'a', encoding="utf-8") as csvfile:
         writer = csv.writer(
             csvfile,
             delimiter=',',

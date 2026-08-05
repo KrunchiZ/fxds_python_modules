@@ -3,7 +3,7 @@ import csv
 
 def main():
     zoo_kl = ["elephant", "tiger", "zebra"]
-    with open('./data.csv', 'a', newline='') as csvfile:
+    with open('./data.csv', 'a', encoding="utf-8") as csvfile:
         writer = csv.writer(
             csvfile,
             delimiter=',',

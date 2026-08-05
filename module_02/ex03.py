@@ -7,7 +7,7 @@ def main():
         cities = input("Enter 3 city names (space separated): ")
 
     city_list: list = cities.split(' ')
-    with open('./cities.csv', 'w', newline='') as csvfile:
+    with open('./cities.csv', 'w', encoding="utf-8") as csvfile:
         writer = csv.writer(
             csvfile,
             delimiter=',',
