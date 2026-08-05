@@ -10,11 +10,9 @@ def main():
             delimiter=',',
             quotechar='\''
         )
-
-        # current wip
         line = next(reader)
-
-    print("Wohoo! My food database is complete!")
+    for food in line:
+        print(food)
 
 
 if __name__ == "__main__":
