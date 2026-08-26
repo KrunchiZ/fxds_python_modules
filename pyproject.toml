@@ -8,6 +8,10 @@ dependencies = [
     "beautifulsoup4>=4.15.0",
     "dotenv>=0.9.9",
     "lxml-html-clean>=0.4.5",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "plotly-express>=0.4.1",
     "pycoingecko>=3.2.0",
     "requests-html>=0.10.0",
+    "streamlit>=1.62.0",
 ]
